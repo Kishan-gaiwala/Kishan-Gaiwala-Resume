@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"Kishan Gaiwala",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"kk.JPG",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "giwalakishan@gmail.com",
+    "phone": "+91 7984920892",
+    "github":"https://github.com/Kishan-gaiwala",
+    "project":"https://github.com/Kishan-gaiwala",
+    "address":{
+      "street":"103, Lakshmi Appartment, Bhaidas Mehtani Sheri",
+      "city":"Sagrampura, Surat",
+      "state":"Gujarat",
+      "zip": "395002"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/12cGjX5TK2SHwUn3cjTue-ZA3IGT9qr2t/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Kishan-gaiwala",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Uka Tersadia University",
+        "degree":"bachelor in Information Technology",
+        "graduated":"June 2022",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"T&Tv Sarvajanik high school",
+        "degree":"12th",
+        "graduated":"March 2018",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Logical Loop",
+        "title":"Mern Stack Developer",
+        "years":"December 2021 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"M&J Tech",
+        "title":"ReactJs developer",
+        "years":"February 2021 - June 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
