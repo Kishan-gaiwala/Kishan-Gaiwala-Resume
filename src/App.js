@@ -8,6 +8,7 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
+import reportWebVitals from './reportWebVitals';
 
 class App extends Component {
   constructor(props) {
@@ -41,6 +42,7 @@ class App extends Component {
   }
 
   render() {
+    reportWebVitals();
     return (
       <div className="App">
         <Header data={this.state.resumeData.main} />
